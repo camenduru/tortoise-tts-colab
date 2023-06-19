@@ -5,7 +5,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tortoise-tts-colab/blob/main/tortoise_tts_colab.ipynb) | ECON_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tortoise-tts-colab/blob/main/tortoise_tts_colab.ipynb) | tortoise_tts_colab
 
 ## Main Repo
 https://github.com/neonbjb/tortoise-tts <br />
