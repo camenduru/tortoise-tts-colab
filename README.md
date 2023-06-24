@@ -6,7 +6,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tortoise-tts-colab/blob/main/tortoise_tts_colab.ipynb) | tortoise_tts_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tortoise-tts-colab/blob/main/tortoise_tts_mrq_colab.ipynb) | tortoise_tts_mrq_colab <br /> thanks to (mrq/ai-voice-cloning)[https://git.ecker.tech/mrq/ai-voice-cloning] ❤ <br /> (wiki)[https://git.ecker.tech/mrq/ai-voice-cloning/wiki] <br /> thanks to @zabinzsur for the suggestion ❤
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/tortoise-tts-colab/blob/main/tortoise_tts_mrq_colab.ipynb) | tortoise_tts_mrq_colab <br /> thanks to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-cloning) ❤ <br /> [wiki](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) <br /> thanks to @zabinzsur for the suggestion ❤
 
 ## Main Repo
 https://github.com/neonbjb/tortoise-tts <br />
